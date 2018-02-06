@@ -4,7 +4,7 @@
     <title> Page 1 </title>
     <style>
       /*This is CSS code, not HTML*/
-      #containter {
+      #container {
         width: 1000px;
         margin: 0 auto;
         background-color: #ff0000;
