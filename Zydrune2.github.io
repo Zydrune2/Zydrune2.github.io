@@ -47,7 +47,6 @@
       <img src="pic1.jpg"/>
       <img src="pic2.jpg"/>
       <img src="pic3.jpg" style="margin-right: 25px;"/>
-      /* Style in pic 3 works only for the  pic3*/
     </div>
     <div id="footer">
     </div>
